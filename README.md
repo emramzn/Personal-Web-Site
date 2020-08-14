@@ -12,4 +12,11 @@ Söz konusu platformun geliştirilmesindeki temel amaç kişisel bilgilerin payl
 
 
 
-<img src=" https://github.com/emramzn/Personal-Web-Site/blob/master/HomapagePersonel.png">
+![](HomapagePersonel.png)
+<a> <br> Kişisel düşüncelerin yada herhangi bir konu üzerindeki düşüncelerin paylaşılması için oluşturulan sayfa. Tasarım üzerinde değişiklikler yaparak gereksinimler doğrultusunda kullanılabilir duruma getirildi.</a>
+
+<br>
+
+![](explorerPage.png)
+<a> <br>Gereksinimlerin değiştirilmesi veya belirlenenler üzerinden gidilerek oluşturulan bir sayfa. Otak kullanıma uygunluk söz konusudur.</a>
+
