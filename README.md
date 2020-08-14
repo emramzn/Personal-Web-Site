@@ -12,4 +12,4 @@ Söz konusu platformun geliştirilmesindeki temel amaç kişisel bilgilerin payl
 
 
 
-![] ()
+<img src=" https://github.com/emramzn/Personal-Web-Site/blob/master/HomapagePersonel.png">
